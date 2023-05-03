@@ -1,0 +1,14 @@
+body {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    background-image: linear-gradient(#C0EEE4, #FFCAC8, #FF9E9E);
+  }
+
+  .intro h1{
+    float: right;
+    margin-right: 65%;
+    margin-top: 100px;
+  }
+
+  
